@@ -1,1 +1,2 @@
 # PROJECT-3
+This is a parallax-style web design that uses large background images with scrolling effects to create a sense of depth and movement. As users scroll, the background moves slower than the content, making the page feel more interactive and engaging. The layout combines beautiful nature visuals with clean text sections, clear headings, and smooth transitions. It is simple yet attractive, making it ideal for landing pages, portfolios, and creative websites.
