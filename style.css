@@ -58,3 +58,43 @@ body {
   background-color: #282e34;
   color: #ddd;
 }
+
+/* 📱 MOBILE DEVICES */
+@media (max-width: 768px) {
+  .pimg1,
+  .pimg2,
+  .pimg3 {
+    background-attachment: scroll; /* FIX for mobile */
+    min-height: 50vh;
+  }
+
+  .ptext {
+    font-size: 1.1rem;
+    letter-spacing: 2px;
+    padding: 0 10px;
+  }
+
+  .section {
+    padding: 40px 20px;
+  }
+
+  .section h2 {
+    font-size: 1.5rem;
+  }
+
+  .section p {
+    font-size: 0.95rem;
+  }
+}
+
+/* 📱 VERY SMALL SCREENS */
+@media (max-width: 480px) {
+  .ptext {
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+
+  .textBg {
+    padding: 10px 15px;
+  }
+}
